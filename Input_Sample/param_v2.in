@@ -1,0 +1,23 @@
+&param
+tbf = 29
+tp = 81
+nrmlz = 1
+tmos = 10
+ta = 1
+tg = 0
+eval = 0.31810d0 
+cnvrg_thresh = 1E-12 
+cnvltn = 'Y'
+cnvltn_alpha = 0.57d0
+taper_call = 'N'
+taper_cut_off = 1.69d0 
+taper_range = 0.26d0 
+core_mos_print = 0
+orb_guess = 'N'
+only_pot = 'N' 
+grid_type = 'C'
+grid_print = 'Y'
+grid_shift = 0.0d0
+pts_1d = 16
+spacng = 1.0d0
+&end
